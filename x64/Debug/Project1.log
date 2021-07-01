@@ -1,0 +1,23 @@
+﻿  audio.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\audio.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  blackjack.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\blackjack.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  buttons.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\textures.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  card.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\textures.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  debug.cpp
+  deck.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\textures.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  draw_card.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\textures.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  instance.cpp
+  main.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\blackjack.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  player.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\textures.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  textures.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\textures.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  textures_batch.cpp
+C:\Users\fredd\Desktop\Blackjack Final Farid Badran\textures.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
